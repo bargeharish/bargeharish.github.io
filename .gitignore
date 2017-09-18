@@ -57,3 +57,10 @@ typings/
 # dotenv environment variables file
 .env
 
+# jekyll
+_site
+.sass-cache
+.jekyll-metadata
+
+# Mac
+.DS_Store
